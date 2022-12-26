@@ -1,5 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=안녕하세요!%20발표하는%20백엔드%20개발자%20김민섭입니다%20🙋‍">
+
+   저는 그날 배운 내용들을 사람들 혹은 가족들에게 설명하는 것이 습관화 되어 있습니다.
+  
+   이러한 발표가 제가 아는 것과 모르는 것은 구분할 수 있게 해준다고 생각합니다.
+  
+   모르는 것을 그냥 넘기는 것이 아닌 확실히 알아가고 그것을 다시 배우고 고칠 줄 아는 개발자가 목표입니다.
   </div>
 
 ## 블로그
@@ -30,6 +36,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=striker1826)](https://github.com/striker1826/github-readme-stats)
 
+# 
 
   
 
