@@ -2,9 +2,7 @@
 
 # 블로그
 
-```
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=MinSeob)](https://velog.io/@keeper1826)
-```
+![Velog's GitHub stats](https://velog.io/@keeper1826)
 
 # 기술
 
