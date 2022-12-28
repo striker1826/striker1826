@@ -28,7 +28,7 @@
 ## 공부하는데 쓰는 플랫폼 📚📚📚
 <br/>
 
-<div align="center"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black">   <img src="https://img.shields.io/badge/Visual Studio Code-4479A1?style=flat&logo=Visual Studio Code&logoColor=white"></div>
+<div align="center"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black">   <img src="https://img.shields.io/badge/Visual Studio Code-4479A1?style=flat&logo=Visual Studio Code&logoColor=white"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&labelColor=%20C997"/></div>
 
 <br/><br/>
 
