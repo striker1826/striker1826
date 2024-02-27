@@ -1,5 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=Welcome!%20🙋‍">
+    웹 개발을 하고 있는 김민섭입니다.
+  
+   가독성이 좋고 유지 보수가 용이한 코드를 계속해서 공부하고 있습니다!
   </div>
 
 ## 블로그
