@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=Welcome!%20🙋‍">
-  MinseobKim Repository
   </div>
 
 ## 블로그
