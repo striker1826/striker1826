@@ -1,8 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=Welcome!%20🙋‍">
+    
     웹 개발을 하고 있는 김민섭입니다.
-  
-   가독성이 좋고 유지 보수가 용이한 코드를 계속해서 공부하고 있습니다!
+    가독성이 좋고 유지 보수가 용이한 코드를 계속해서 공부하고 있습니다!
+    현업에서 백엔드를 개발한 경험을 가지고 있고 현재는 프론트앤드를 중점적으로 공부하고 있습니다.
+    
+    최근에는 React와 Nest.js를 이용해서 실시간으로 알고리즘 대결을 할 수 있는 사이트를 디밸롭하고 있습니다.
   </div>
 
 ## 블로그
