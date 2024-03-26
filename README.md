@@ -9,9 +9,17 @@
   </div>
 
 ## 블로그
-<div align="center"><p><a href="https://velog.io/@keeper1826" target="_blank">
+<div display="flex"><div align="center"><p><a href="https://velog.io/@striker1826/posts" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&labelColor=%20C997"/></a></p>
 </div>
+
+<div align="center">
+<p>
+    <a href="https://striker1826.tistory.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tistroy-ee2323?style=flat&logo=Tistory&logoColor=white&labelColor=%20C997"/>    
+    <a/>
+</p>    
+</div></div>
 
 ## 기술
 <div style="display: flex; align-items: flex-start;"><div align="center"><div style="display: flex; align-items: flex-start;"><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div></div></div></div>
